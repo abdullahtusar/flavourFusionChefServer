@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
+        "chef_name": "Jane Doe",
+        "description": "John Smith is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
+        "years_of_experience": 15,
+        "num_recipes": 10,
+        "recipe_id": "r1"
+      },
+      {
+        "id": 2,
+        "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
+        "chef_name": "Jane Doe",
+        "description": "John Smith is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
+        "years_of_experience": 20,
+        "num_recipes": 50,
+        "recipe_id": "r2"
+      },
+      {
+        "id": 3,
+        "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
+        "chef_name": "Jane Doe",
+        "description": "John Smith is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
+        "years_of_experience": 10,
+        "num_recipes": 20,
+        "recipe_id": "r3"
+      },
+      {
+        "id": 4,
+        "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
+        "chef_name": "Jane Doe",
+        "description": "John Smith is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "recipe_id": "r4"
+      },
+      {
+        "id": 5,
+        "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
+        "chef_name": "Jane Doe",
+        "description": "John Smith is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
+        "years_of_experience": 15,
+        "num_recipes": 30,
+        "recipe_id": "r5"
+      },
+      {
+        "id": 6,
+        "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
+        "chef_name": "Jane Doe",
+        "description": "John Smith is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
+        "years_of_experience": 10,
+        "num_recipes": 15,
+        "recipe_id": "r6"
+      },
+]
