@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "recipe_id": "105",
+        "recipe_id": "r1",
         "recipe_name": "Chicken Biryani",
         "ingredients": [
             "2 cups basmati rice",
