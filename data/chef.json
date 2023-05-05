@@ -1,56 +1,301 @@
 [
-    {
-        "id": 1,
-        "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
-        "chef_name": "Jane Doe",
-        "description": "John Smith is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
-        "years_of_experience": 15,
-        "num_recipes": 10,
-        "recipe_id": "r1"
+  {
+    "id": 1,
+    "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
+    "chef_name": "Gordon Ramsay",
+    "description": "Gordon Ramsay is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
+    "years_of_experience": 15,
+    "num_recipes": 10,
+    "likes": 2000,
+    "recipes": [
+      {
+        "pic":"https://i.ibb.co/7KnKKsY/whole-chicken-grill-served-with-rice-garnish-white-plate.jpg",
+        "recipe_name": "Chicken Biryani",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb chicken, cut into pieces",
+          "1 onion, sliced",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste"
+        ],
+        "method_of_cooking": "1. Soak the rice in water for 30 minutes.\n2. Heat oil in a pan and sauté the onions until golden brown.\n3. Add the ginger and garlic paste and sauté for another minute.\n4. Add the chicken and cook until it turns white.\n5. Add salt and 2 cups of water and let it simmer for 10-15 minutes until the chicken is cooked through.\n6. In a separate pot, boil water and add the soaked rice. Cook until it is 90% done.",
+        "rating": 4.9
       },
       {
-        "id": 2,
-        "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
-        "chef_name": "Jane Doe",
-        "description": "John Smith is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
-        "years_of_experience": 20,
-        "num_recipes": 50,
-        "recipe_id": "r2"
+        "pic":"https://i.ibb.co/PcRbnM4/delicious-goulash-ready-dinner.jpg",
+        "recipe_name": "Beef Bhuna",
+        "ingredients": [
+          "1 lb beef, cut into small pieces",
+          "1 onion, sliced",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "1 tsp red chilli powder"
+        ],
+        "method_of_cooking": "1. Heat oil in a pan and sauté the onions until golden brown. 2. Add the ginger and garlic paste and sauté for another minute. 3. Add the beef and cook on high heat until the meat is browned. 4. Reduce heat to low and add red chilli powder, salt and enough water to cover the beef. 5. Cover the pan and simmer until the beef is tender and the water has evaporated. 6. Stir occasionally to prevent sticking.",
+        "rating": 4.7
       },
       {
-        "id": 3,
-        "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
-        "chef_name": "Jane Doe",
-        "description": "John Smith is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
-        "years_of_experience": 10,
-        "num_recipes": 20,
-        "recipe_id": "r3"
-      },
-      {
-        "id": 4,
-        "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
-        "chef_name": "Jane Doe",
-        "description": "John Smith is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
-        "years_of_experience": 12,
-        "num_recipes": 60,
-        "recipe_id": "r4"
-      },
-      {
-        "id": 5,
-        "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
-        "chef_name": "Jane Doe",
-        "description": "John Smith is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
-        "years_of_experience": 15,
-        "num_recipes": 30,
-        "recipe_id": "r5"
-      },
-      {
-        "id": 6,
-        "chef_pic": "https://i.ibb.co/mDfX21S/happy-young-cook-uniform-holding-salad.jpg",
-        "chef_name": "Jane Doe",
-        "description": "John Smith is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
-        "years_of_experience": 10,
-        "num_recipes": 15,
-        "recipe_id": "r6"
+        "pic":"https://i.ibb.co/j6HVtFK/mariam-sodawater-cqo1q-QOLTm0-unsplash.jpg",
+        "recipe_name": "Chingri Mach er Malaikari",
+        "ingredients": [
+          "1 lb prawns",
+          "1 cup coconut milk",
+          "1 onion, sliced",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste"
+        ],
+        "method_of_cooking": "1. Peel and devein the prawns, wash and keep aside.\n2. Heat oil in a pan and sauté the onions until golden brown.\n3. Add the ginger and garlic paste and sauté for another minute.\n4. Add the prawns and sauté until they are cooked.\n5. Add the coconut milk and let it simmer for 5-7 minutes until the sauce thickens.\n6. Add salt to taste and garnish with chopped cilantro leaves.\n7. Serve hot with steamed rice.",
+        "rating": 4.7
       }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_pic": "https://i.ibb.co/Bg5GGYv/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident.jpg",
+    "chef_name": "Julia Child",
+    "description": "Julia Child is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
+    "years_of_experience": 20,
+    "num_recipes": 50,
+    "likes": 4000,
+    "recipes": [
+      {
+        "pic":"https://i.ibb.co/Jp89kFD/Shorshe-ilish.jpg",
+        "recipe_name": "Sorshe Ilish",
+        "ingredients": [
+          "4 pieces Hilsa fish",
+          "1 tbsp mustard seeds",
+          "1 onion, sliced",
+          "1 tsp turmeric powder",
+          "2 green chilies"
+        ],
+        "method_of_cooking": "1. Marinate the Hilsa fish with turmeric powder and salt, keep aside.\n2. Soak mustard seeds in water for 30 minutes.\n3. Grind the mustard seeds with green chilies to make a smooth paste.\n4. Heat oil in a pan and sauté the onions until golden brown.\n5. Add the mustard paste and sauté for 2-3 minutes.\n6. Add water and let it simmer for 5 minutes.\n7. Add the marinated Hilsa fish and let it cook for 10-12 minutes.\n8. Serve hot with steamed rice.",
+        "rating": 4.8
+      },
+      {
+        "pic":"https://i.ibb.co/H465gvw/beef-biryani-I.jpg",
+        "recipe_name": "Beef Biriyani",
+        "ingredients": [
+          "1 lb beef, cut into cubes",
+          "2 cups basmati rice",
+          "1 onion, sliced",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste"
+        ],
+        "method_of_cooking": "1. Wash the rice and soak it in water for 30 minutes.\n2. Heat oil in a pan and sauté the onions until golden brown.\n3. Add the ginger and garlic paste and sauté for another minute.\n4. Add the beef and sauté until it is cooked.\n5. Add water and let it simmer for 30 minutes until the beef is tender.\n6. Drain the water from the soaked rice.\n7. Add the rice to the beef and mix well.\n8. Add water and cook until the rice is done.\n9. Garnish with fried onions.",
+        "rating": 4.5
+      },
+      {
+        "pic":"https://i.ibb.co/McQ1wc2/Beef-Khichuri.jpg",
+        "recipe_name": "Bhuna Khichuri",
+        "ingredients": [
+          "1 cup basmati rice",
+          "1 cup yellow lentil",
+          "1 onion, chopped",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste"
+        ],
+        "method_of_cooking": "1. Wash the rice and yellow lentil and soak them in water for 30 minutes.\n2. Heat oil in a pan and sauté the onions until golden brown.\n3. Add the ginger and garlic paste and sauté for another minute.\n4. Add the soaked rice and lentil and sauté for 2-3 minutes.\n5. Add water and bring to a boil.\n6. Cover the pan and let it simmer on low heat for 20-25 minutes or until the rice and lentils are cooked.\n7. In a separate pan, heat oil and fry the onions until golden brown.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_pic": "https://i.ibb.co/F5DxZPL/young-confident-caucasian-cook-girl-chef-uniform-crosses-arms-looks-camera-isolated-violet-wall-with.jpg",
+    "chef_name": "Jamie Oliver",
+    "description": "Jamie Oliver is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
+    "years_of_experience": 10,
+    "num_recipes": 20,
+    "likes": 20000,
+    "recipes": [
+      {
+        "pic":"https://i.ibb.co/0G1XSSB/Chicken-Pakoras-square-FS-62.jpg",
+        "recipe_name": "Chicken Pakora",
+        "ingredients": [
+          "1 lb boneless chicken, cut into small pieces",
+          "1 cup chickpea flour",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1 tsp red chili powder"
+        ],
+        "method_of_cooking": "1. In a bowl, mix together the chickpea flour, cumin powder, coriander powder, red chili powder, and salt.\n2. Add water to make a thick batter.\n3. Add the chicken pieces to the batter and mix well.\n4. Heat oil in a deep frying pan.\n5. Drop the chicken pieces into the hot oil and fry until golden brown.\n6. Drain the excess oil and serve hot with mint chutney.",
+        "rating": 4.6
+      },
+      {
+        "pic":"https://i.ibb.co/MD8trWw/photo.jpg",
+        "recipe_name": "Shami Kabab",
+        "ingredients": [
+          "1 lb ground beef",
+          "1 cup split chickpeas, soaked overnight",
+          "1 onion, chopped",
+          "2 green chilies, chopped",
+          "1 tsp ginger paste"
+        ],
+        "method_of_cooking": "1. In a pressure cooker, add the soaked split chickpeas and enough water to cover them.\n2. Cook for 4-5 whistles or until the chickpeas are soft.\n3. In a separate pan, sauté the onions, green chilies, and ginger paste until the onions are golden brown.\n4. In a mixing bowl, add the ground beef, cooked chickpeas, and sautéed onion mixture.",
+        "rating": 4.5
+      },
+      {
+        "pic":"https://i.ibb.co/j6HVtFK/mariam-sodawater-cqo1q-QOLTm0-unsplash.jpg",
+        "recipe_name": "Chingri Bhuna",
+        "ingredients": [
+          "1 lb jumbo shrimp, deveined",
+          "1 onion, chopped",
+          "1 tomato, chopped",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste"
+        ],
+        "method_of_cooking": "1. Heat oil in a pan and add the chopped onions. Fry until they turn golden brown.\n2. Add the ginger and garlic paste and sauté for a few minutes.\n3. Add the chopped tomatoes and cook until they are soft and mushy.\n4. Add salt, turmeric powder, cumin powder, coriander powder, and red chili powder. Mix well.\n5. Add the shrimp to the pan and mix well with the spices.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_pic": "https://i.ibb.co/jwbzPJJ/chef-holding-pan-with-fire-inside.jpg",
+    "chef_name": "Anthony Bourdain",
+    "description": "Anthony Bourdain is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
+    "years_of_experience": 12,
+    "num_recipes": 60,
+    "likes": 4000,
+    "recipes": [
+      {
+        "pic":"https://i.ibb.co/yXc5kWw/fuchka3-1.jpg",
+        "recipe_name": "Fuchka",
+        "ingredients": [
+          "1 cup semolina",
+          "1/2 cup all-purpose flour",
+          "1 tsp salt",
+          "1 tsp baking powder",
+          "1/2 cup water"
+        ],
+        "method_of_cooking": "1. In a mixing bowl, add the semolina, all-purpose flour, salt, and baking powder. Mix well.\n2. Gradually add water and knead the mixture into a smooth dough.\n3. Cover the dough and let it rest for 30 minutes.\n4. Divide the dough into small balls and roll them out into thin discs.\n5. Cut out small circles from the discs with a cookie cutter or lid.\n6. Heat oil in a deep pan and fry the circles until they are golden brown on both sides.\n7. Take the fried circles out of the oil and poke a small hole in the center of each circle.\n8. Stuff the circles with a mixture of mashed potatoes, chickpeas, chopped onions, cilantro, tamarind paste, and spices.\n9. Serve hot with tamarind water.",
+        "rating": 4.6
+      },
+      {
+        "pic":"https://i.ibb.co/PQ8YdxS/IMG-20190406-200508.jpg",
+        "recipe_name": "Doi Fuchka",
+        "ingredients": [
+          "1 cup semolina",
+          "1/2 cup all-purpose flour",
+          "1 tsp salt",
+          "1 tsp baking powder",
+          "1/2 cup water"
+        ],
+        "method_of_cooking": "1. In a mixing bowl, add the semolina, all-purpose flour, salt, and baking powder. Mix well.\n2. Gradually add water and knead the mixture into a smooth dough.\n3. Cover the dough and let it rest for 30 minutes.\n4. Divide the dough into small balls and roll them out into thin discs.\n5. Cut out small circles from the discs with a cookie cutter or lid.\n6. Heat oil in a deep pan and fry the circles until they are golden brown on both sides.\n7. Take the fried circles out of the oil and poke a small hole in the center of each circle.\n8. Stuff the circles with a mixture of mashed potatoes, chickpeas, chopped onions, cilantro, tamarind paste, and spices.\n9. Serve hot with tamarind water.",
+        "rating": 4.6
+      },
+      {
+        "pic": "https://i.ibb.co/kgnKLBk/chicken-korma-11-scaled-735x980.jpg",
+        "recipe_name": "Chicken Korma",
+        "ingredients": [
+          "1 lb chicken",
+          "1 onion, finely chopped",
+          "2 tbsp ginger paste",
+          "2 tbsp garlic paste",
+          "1/2 cup plain yogurt"
+        ],
+        "method_of_cooking": "1. Heat oil in a pan over medium-high heat. Add the onions and cook until they are soft and translucent.\n2. Add the ginger and garlic paste and cook for 2-3 minutes.\n3. Add the chicken and cook until it is browned on all sides.\n4. Add the cumin powder, coriander powder, turmeric powder, red chili powder, nutmeg powder, mace powder, cardamom powder, bay leaves, and cinnamon sticks. Mix well.\n5. Add water and bring the mixture to a boil. Reduce the heat and let it simmer for 15-20 minutes, or until the chicken is cooked through.\n6. Add the yogurt and cream. Mix well.\n7. Cook for another 5-7 minutes, or until the sauce thickens.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_pic": "https://i.ibb.co/h2MsyxS/portrait-smiling-chef-uniform.jpg",
+    "chef_name": "Nigella Lawson",
+    "description": "Nigella Lawson is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
+    "years_of_experience": 15,
+    "num_recipes": 30,
+    "likes": 8000,
+    "recipes": [
+      {
+        "pic":"https://i.ibb.co/H465gvw/beef-biryani-I.jpg",
+        "recipe_name": "Mutton Biriyani",
+        "ingredients": [
+          "1 lb Mutton, cut into cubes",
+          "2 cups basmati rice",
+          "1 onion, sliced",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste"
+        ],
+        "method_of_cooking": "1. Wash the rice and soak it in water for 30 minutes.\n2. Heat oil in a pan and sauté the onions until golden brown.\n3. Add the ginger and garlic paste and sauté for another minute.\n4. Add the Mutton and sauté until it is cooked.\n5. Add water and let it simmer for 30 minutes until the Mutton is tender.\n6. Drain the water from the soaked rice.\n7. Add the rice to the Mutton and mix well.\n8. Add water and cook until the rice is done.\n9. Garnish with fried onions and chopped cilantro leaves.\n10. Serve hot with raita and salad.",
+        "rating": 4.5
+      },
+      { "pic": "https://i.ibb.co/vDFjqz0/maxresdefault.jpg",
+        "recipe_name": "Lacchi",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup ghee",
+          "1/2 cup water",
+          "1 tsp salt",
+          "1/2 tsp sugar"
+        ],
+        "method_of_cooking": "1. In a mixing bowl, add the flour, salt, and sugar. Mix well.\n2. Add ghee to the mixture and rub with your fingers until the mixture resembles coarse breadcrumbs.\n3. Gradually add water and knead the mixture into a smooth dough.\n4. Cover the dough and let it rest for 30 minutes.\n5. Divide the dough into small balls and roll them out into thin discs.\n6. Make small cuts on the discs with a sharp knife.\n7. Heat oil in a deep pan and fry the discs until they are golden brown on both sides.\n8. Serve hot with chana dal or curry.",
+        "rating": 4.2
+      },
+      {
+        "pic":"https://i.ibb.co/D5f1XrS/pexels-photo-340996-7-1170x614.jpg",
+        "recipe_name": "Faluda",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup ghee",
+          "1/2 cup water",
+          "1 tsp salt",
+          "1/2 tsp sugar"
+        ],
+        "method_of_cooking": "1. In a mixing bowl, add the flour, salt, and sugar. Mix well.\n2. Add ghee to the mixture and rub with your fingers until the mixture resembles coarse breadcrumbs.\n3. Gradually add water and knead the mixture into a smooth dough.\n4. Cover the dough and let it rest for 30 minutes.\n5. Divide the dough into small balls and roll them out into thin discs.\n6. Make small cuts on the discs with a sharp knife.\n7. Heat oil in a deep pan and fry the discs until they are golden brown on both sides.\n8. Serve hot with chana dal or curry.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_pic": "https://i.ibb.co/yRt82hb/confident-young-female-cook-wearing-chef-uniform-holding-frying-pan-crossing-hands-isolated-white-wa.jpg",
+    "chef_name": "Emeril Lagasse",
+    "description": "Emeril Lagasse is a classically trained chef with experience working in some of the finest restaurants in Europe. He is known for his innovative twists on traditional dishes and his passion for locally sourced ingredients.",
+    "years_of_experience": 10,
+    "num_recipes": 15,
+    "likes": 6000,
+    "recipes": [
+      {
+        "pic": "https://i.ibb.co/yVHbd7L/maxresdefault-1.jpg",
+        "recipe_name": "Borhani",
+        "ingredients": [
+          "1 cup plain yogurt",
+          "2 cups cold water",
+          "1 tsp roasted cumin powder",
+          "1/2 tsp black salt",
+          "1/4 tsp sugar"
+        ],
+        "method_of_cooking": "1. In a large mixing bowl, whisk together the yogurt and cold water until well combined.\n2. Add the roasted cumin powder, black salt, and sugar. Mix well.\n3. Taste and adjust the seasoning as needed.\n4. Chill in the refrigerator for at least 30 minutes before serving.\n5. Serve cold with spicy snacks or biryani.",
+        "rating": 4.5
+      },
+      {
+        "pic":"https://i.ibb.co/vqtH2Tr/photo-1.jpg",
+        "recipe_name": "Luchi",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 tsp salt",
+          "2 tbsp vegetable oil",
+          "3/4 cup warm water",
+          "Oil for deep frying"
+        ],
+        "method_of_cooking": "1. In a large mixing bowl, combine the flour and salt.\n2. Add the vegetable oil and mix until the flour is crumbly.\n3. Slowly add the warm water and knead the dough until it is smooth and elastic. The dough should be firm and not sticky.\n4. Cover the dough and let it rest for at least 30 minutes.",
+        "rating": 4.7
+      },
+      {
+        "pic":"https://i.ibb.co/PcRbnM4/delicious-goulash-ready-dinner.jpg",
+        "recipe_name": "Beef Rezala",
+        "ingredients": [
+          "1 kg beef, cut into small pieces",
+          "1/2 cup plain yogurt",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tbsp white poppy seeds"
+        ],
+        "method_of_cooking": "1. In a mixing bowl, whisk together the plain yogurt, ginger paste, and garlic paste.\n2. Add the beef pieces and mix well, making sure the beef is coated with the marinade.\n3. Cover the bowl with plastic wrap and marinate in the refrigerator for at least 2 hours or overnight.\n4. In a blender, grind the white poppy.",
+        "rating": 4.7
+      }
+    ]
+  }
 ]
